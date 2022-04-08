@@ -4,4 +4,4 @@
 
 Discord: gomaproi#2866<br>
 Twitter: [@gomaproi](https://twitter.com/gomaproi)<br>
-GameJolt: [@gomaproi](https://gamejolt.com/@gomaproi)<br>
+GameJolt: [@gomaproi](https://gamejolt.com/@gomaproi) (TENTANDO RECUPERAR ESSA CONTA)<br>
