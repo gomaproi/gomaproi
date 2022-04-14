@@ -1,4 +1,4 @@
-### GOMAPROI ME EU 🥸
+### GOMAPROI ME EU 🐢
 / I make cool and happy games and sometimes do art<br>
 / Faço jogos felizes e legais, de vez em quando desenho
 
