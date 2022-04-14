@@ -1,9 +1,9 @@
 ### GOMAPROI ME EU 🐢
-/ I make cool and happy games and sometimes do art<br>
-/ Faço jogos felizes e legais, de vez em quando desenho
+/ I make cool and happy games and sometimes do art.<br>
+/ Faço jogos felizes e legais, de vez em quando desenho.
 
-Discord: gomaproi#2866<br>
-Twitter: [@gomaproi](https://twitter.com/gomaproi)<br>
+**Discord:** gomaproi#2866<br>
+**Twitter:** [@gomaproi](https://twitter.com/gomaproi)<br>
 <br>
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
