@@ -1,9 +1,11 @@
+![banner](https://user-images.githubusercontent.com/28575885/179263595-37085376-c0b4-49a2-b55b-5a325244397b.png)
 ### GOMAPROI ME EU 🐢
 / I make cool and happy games and sometimes do art.<br>
-/ Faço jogos felizes e legais, de vez em quando faço artes e ofícios.
+/ Faço jogos felizes e legais, de vez em quando faço artes.
 
 **Discord:** gomaproi#2866<br>
 **Twitter:** [@gomaproi](https://twitter.com/gomaproi)<br>
+**Last.fm:** [gomaproi](https://www.last.fm/user/gomaproi)<br>
 <br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
