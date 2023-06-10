@@ -3,7 +3,7 @@
 / I make cool and happy games and sometimes do art.<br>
 / Faço jogos felizes e legais, de vez em quando faço artes.
 
-/ **Discord:** gomakappa<br>
+/ **Discord:** gomaproi<br>
 / **Twitter:** [@gomaproi](https://twitter.com/gomaproi) (inactive)<br>
 / **Last.fm:** [gomaproi](https://www.last.fm/user/gomaproi)<br>
 <br>
