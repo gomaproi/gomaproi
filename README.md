@@ -4,6 +4,7 @@
 / Faço jogos felizes e legais, de vez em quando faço artes.
 
 / **Discord:** gomaproi<br>
+/ **Mastodon:** <a rel="me" href="https://mastodon.gamedev.place/@gomaproi">@gomaproi</a> (gamedev.place)<br>
 / **Twitter:** [@gomaproi](https://twitter.com/gomaproi) (inactive)<br>
 / **Last.fm:** [gomaproi](https://www.last.fm/user/gomaproi)<br>
 <br>
