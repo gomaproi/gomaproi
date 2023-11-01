@@ -3,10 +3,7 @@
 / I make cool and happy games and sometimes do art.<br>
 / Faço jogos felizes e legais, de vez em quando faço artes.
 
-/ **Discord:** gomaproi<br>
-/ **Mastodon:** <a rel="me" href="https://mastodon.social/@gomaproi">@gomaproi</a> (mastodon.social)<br>
-/ **Twitter:** [@gomaproi](https://twitter.com/gomaproi) (inactive)<br>
-/ **Last.fm:** [gomaproi](https://www.last.fm/user/gomaproi)<br>
+/ **Personal Website** (check out for more links): https://gomakappa.neocities.org/<br>
 <br>
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
